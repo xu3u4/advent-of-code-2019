@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xu3u4/advent-of-code-2019.git"
+  },
+  "keywords": [
+    "aoc"
+  ],
+  "ava": {
+    "files": ["**/test.js"]
+  },
+  "author": "Jocelyn",
+  "license": "ISC",
+  "devDependencies": {
+    "ava": "^2.4.0"
+  }
+}
